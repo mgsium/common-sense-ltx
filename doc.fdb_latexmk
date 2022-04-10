@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1649481197 "/Users/fermicide/Desktop/newidiot/doc.tex" "/Users/fermicide/Desktop/newidiot/doc.pdf" "doc" 1649481198
-  "/Users/fermicide/Desktop/newidiot/doc.aux" 1649481198 487 4ddf74df6a045a7b5281c812cf5a1ee0 ""
-  "/Users/fermicide/Desktop/newidiot/doc.tex" 1649481196 123495 fb22fdb3ad38f0c617a2c8b23e0cfbef ""
+["pdflatex"] 1649560376 "/Users/fermicide/Desktop/common-sense-ltx/doc.tex" "/Users/fermicide/Desktop/common-sense-ltx/doc.pdf" "doc" 1649560377
+  "/Users/fermicide/Desktop/common-sense-ltx/doc.aux" 1649560377 487 4ddf74df6a045a7b5281c812cf5a1ee0 ""
+  "/Users/fermicide/Desktop/common-sense-ltx/doc.tex" 1649560375 118858 bf34a0e29c74aa7e8a812b77dd204ceb ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/gfsartemisia/artemisia.enc" 1196103689 3514 0883619cb1aca77d59eef9ca80709d0f ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/gfsartemisia/artemisiaec.enc" 1196103689 3366 e1d4659504bcc77c99da704153dc901d ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/gfsartemisia/artemisiaecsc.enc" 1196103689 3484 ca1b9b5f60dabf3ca5205872a193a645 ""
@@ -117,11 +117,11 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1636927432 2724740 a0af2cab0871a3178c338bd930b05e7a ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "doc.aux" 1649481198 487 4ddf74df6a045a7b5281c812cf5a1ee0 "pdflatex"
-  "doc.tex" 1649481196 123495 fb22fdb3ad38f0c617a2c8b23e0cfbef ""
+  "doc.aux" 1649560377 487 4ddf74df6a045a7b5281c812cf5a1ee0 "pdflatex"
+  "doc.tex" 1649560375 118858 bf34a0e29c74aa7e8a812b77dd204ceb ""
   (generated)
-  "/Users/fermicide/Desktop/newidiot/doc.log"
   "doc.aux"
-  "doc.log"
   "doc.pdf"
-  "/Users/fermicide/Desktop/newidiot/doc.pdf"
+  "/Users/fermicide/Desktop/common-sense-ltx/doc.log"
+  "/Users/fermicide/Desktop/common-sense-ltx/doc.pdf"
+  "doc.log"

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.14)  9 APR 2022 06:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.14)  10 APR 2022 04:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/fermicide/Desktop/newidiot/doc.tex
-(/Users/fermicide/Desktop/newidiot/doc.tex
+**/Users/fermicide/Desktop/common-sense-ltx/doc.tex
+(/Users/fermicide/Desktop/common-sense-ltx/doc.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
@@ -725,7 +725,7 @@ Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footer
 \f@nch@O@erf=\skip61
 \f@nch@O@olf=\skip62
 \f@nch@O@orf=\skip63
-) (/Users/fermicide/Desktop/newidiot/doc.aux)
+) (/Users/fermicide/Desktop/common-sense-ltx/doc.aux)
 \openout1 = `doc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 56.
@@ -1063,42 +1063,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [3
 
 ]
-LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 9.29993pt on input line 161.
-Package microtype Info: Character `AE ' is missing
-(microtype)             in font `OT1/txr/m/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `AE ' is missing
-(microtype)             in font `OT1/txr/m/n/7'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `AE ' is missing
-(microtype)             in font `OT1/txr/m/n/5'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `AE ' is missing
-(microtype)             in font `OT1/txr/m/it/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `OE ' is missing
-(microtype)             in font `OT1/txr/m/it/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `AE ' is missing
-(microtype)             in font `OT1/txr/m/it/7'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `OE ' is missing
-(microtype)             in font `OT1/txr/m/it/7'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `AE ' is missing
-(microtype)             in font `OT1/txr/m/it/5'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `OE ' is missing
-(microtype)             in font `OT1/txr/m/it/5'.
-(microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 9.29993pt on input line 161.
-LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 6.50995pt on input line 161.
-LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 6.50995pt on input line 161.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1108,9 +1072,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4]
 LaTeX Font Info:    Font shape `T1/artemisia/m/it' will be
-(Font)              scaled to size 10.18341pt on input line 175.
+(Font)              scaled to size 10.18341pt on input line 173.
 LaTeX Font Info:    Font shape `T1/artemisia/b/it' will be
-(Font)              scaled to size 10.18341pt on input line 175.
+(Font)              scaled to size 10.18341pt on input line 173.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1151,7 +1115,45 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 48.82327pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 51.26457pt (M) loversize=0.05;
-(lettrine.sty)             reported on input line 230.
+(lettrine.sty)             reported on input line 228.
+LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
+(Font)              scaled to size 9.29993pt on input line 236.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `OT1/txr/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `OT1/txr/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `OT1/txr/m/n/5'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `OT1/txr/m/it/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `OE ' is missing
+(microtype)             in font `OT1/txr/m/it/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `OT1/txr/m/it/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `OE ' is missing
+(microtype)             in font `OT1/txr/m/it/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `OT1/txr/m/it/5'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `OE ' is missing
+(microtype)             in font `OT1/txr/m/it/5'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
+(Font)              scaled to size 9.29993pt on input line 236.
+LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
+(Font)              scaled to size 6.50995pt on input line 236.
+LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
+(Font)              scaled to size 6.50995pt on input line 236.
+
+Underfull \vbox (badness 1043) has occurred while \output is active []
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1161,12 +1163,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9]
-Underfull \hbox (badness 1701) in paragraph at lines 244--245
+Underfull \hbox (badness 1701) in paragraph at lines 242--243
 \T1/artemisia/m/n/12 (+20) by the Mid-i-an-ites, Gideon marched
  []
 
-LaTeX Font Info:    Font shape `T1/artemisia/m/it' will be
-(Font)              scaled to size 9.29993pt on input line 248.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1186,9 +1186,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11]
-Underfull \vbox (badness 1342) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1197,9 +1194,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12]
-Underfull \vbox (badness 4582) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1223,7 +1217,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[15]
+[15
+
+]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1237,7 +1233,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 48.82327pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 51.26457pt (I) loversize=0.05;
-(lettrine.sty)             reported on input line 286.
+(lettrine.sty)             reported on input line 282.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1303,7 +1299,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
-Underfull \hbox (badness 1789) in paragraph at lines 386--387
+Underfull \hbox (badness 1789) in paragraph at lines 382--383
 []\T1/artemisia/m/n/12 (+20) Thousands are al-ready ru-ined by
  []
 
@@ -1318,9 +1314,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 48.82327pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 51.26457pt (L) loversize=0.05;
-(lettrine.sty)             reported on input line 400.
+(lettrine.sty)             reported on input line 396.
 
-Underfull \hbox (badness 2334) in paragraph at lines 400--401
+Underfull \hbox (badness 2334) in paragraph at lines 396--397
 \T1/artemisia/m/n/12 (+20) rep-re-sen-ta-tion more equal.
  []
 
@@ -1351,9 +1347,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 48.82327pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 51.26457pt (I) loversize=0.05;
-(lettrine.sty)             reported on input line 434.
+(lettrine.sty)             reported on input line 430.
 
-Underfull \hbox (badness 1173) in paragraph at lines 440--441
+Underfull \hbox (badness 1173) in paragraph at lines 436--437
 []\T1/artemisia/m/n/12 (+20) Were the con-ti-nent crowded with
  []
 
@@ -1368,9 +1364,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 5.57996pt on input line 464.
+(Font)              scaled to size 5.57996pt on input line 460.
 
-Underfull \hbox (badness 10000) in paragraph at lines 474--491
+Underfull \hbox (badness 10000) in paragraph at lines 470--487
 
  []
 
@@ -1406,7 +1402,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [33]
-Underfull \hbox (badness 3260) in paragraph at lines 524--525
+Underfull \hbox (badness 3260) in paragraph at lines 520--521
 []\T1/artemisia/m/n/12 (+20) Immediate ne-ces-sity makes many
  []
 
@@ -1439,7 +1435,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 48.82327pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 51.26457pt (S) loversize=0.05;
-(lettrine.sty)             reported on input line 578.
+(lettrine.sty)             reported on input line 574.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1484,7 +1480,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [41]
 LaTeX Font Info:    Font shape `T1/artemisia/b/n' will be
-(Font)              scaled to size 11.15991pt on input line 624.
+(Font)              scaled to size 11.15991pt on input line 620.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1493,20 +1489,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[42] (/Users/fermicide/Desktop/newidiot/doc.aux) ) 
+[42] (/Users/fermicide/Desktop/common-sense-ltx/doc.aux) ) 
 Here is how much of TeX's memory you used:
- 9826 strings out of 478994
- 150786 string characters out of 5858183
- 559397 words of memory out of 5000000
- 26383 multiletter control sequences out of 15000+600000
- 564981 words of font info for 717 fonts, out of 8000000 for 9000
+ 9727 strings out of 478994
+ 149321 string characters out of 5858183
+ 558160 words of memory out of 5000000
+ 26381 multiletter control sequences out of 15000+600000
+ 554155 words of font info for 652 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,18n,88p,5682b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,18n,88p,4934b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/gfsartemisia/artemisia.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/gfsartemisia/artemisiaec.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/gfsartemisia/artemisiaecsc.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/gfsartemisia/GFSArtemisia-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/gfsartemisia/GFSArtemisia-BoldItalic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/gfsartemisia/GFSArtemisia-Italic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/gfsartemisia/GFSArtemisia-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/initials/GoudyIn.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb>
-Output written on /Users/fermicide/Desktop/newidiot/doc.pdf (42 pages, 373780 bytes).
+Output written on /Users/fermicide/Desktop/common-sense-ltx/doc.pdf (42 pages, 368143 bytes).
 PDF statistics:
  176 PDF objects out of 1000 (max. 8388607)
  123 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 159745 words of extra memory for PDF output out of 184870 (max. 10000000)
+ 155649 words of extra memory for PDF output out of 184870 (max. 10000000)
 
