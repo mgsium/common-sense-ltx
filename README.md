@@ -10,4 +10,6 @@ The full text used can be obtained from [The Gutenburg Project](https://www.gute
 
 (This repository remains a WIP)
   
+  <img src="https://user-images.githubusercontent.com/46031748/162599552-88ff6f91-8f96-4ca6-94a4-63ae23d76068.png"/>
+  
 </div>
