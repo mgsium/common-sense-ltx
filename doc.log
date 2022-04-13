@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.14)  10 APR 2022 04:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.14)  13 APR 2022 12:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -696,7 +696,12 @@ LaTeX Font Warning: Font shape `T1/artemisia/m/scit' undefined
 
 LaTeX Font Info:    Font shape `T1/artemisia/m/it' will be
 (Font)              scaled to size 11.15991pt on input line 24.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/bigfoot/perpage.sty
+Package: perpage 2014/10/25 2.0 Reset/sort counters per page
+\c@abspage=\count284
+)
+\c@pp@a@footnote=\count285
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -711,7 +716,7 @@ Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
  (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )))
-\c@section@level=\count284
+\c@section@level=\count286
 LaTeX Info: Redefining \ref on input line 356.
 LaTeX Info: Redefining \pageref on input line 356.
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
@@ -728,42 +733,42 @@ Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footer
 ) (/Users/fermicide/Desktop/common-sense-ltx/doc.aux)
 \openout1 = `doc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 56.
-LaTeX Font Info:    Trying to load font information for OML+txmi on input line 56.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 57.
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 57.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 56.
-LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 56.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 57.
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 57.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 56.
-LaTeX Font Info:    Trying to load font information for OMX+txex on input line 56.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 57.
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 57.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 56.
-LaTeX Font Info:    Trying to load font information for U+txexa on input line 56.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 57.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 57.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 56.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 56.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 57.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 57.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    ... okay on input line 57.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -799,14 +804,14 @@ LaTeX Font Info:    ... okay on input line 56.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 56.
+LaTeX Info: Redefining \microtypecontext on input line 57.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 56.
+LaTeX Info: Redefining \showhyphens on input line 57.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -816,56 +821,56 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count285
+\scratchcounter=\count287
 \scratchdimen=\dimen196
 \scratchbox=\box54
-\nofMPsegments=\count286
-\nofMParguments=\count287
+\nofMPsegments=\count288
+\nofMParguments=\count289
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count288
+\MPscratchCnt=\count290
 \MPscratchDim=\dimen197
-\MPnumerator=\count289
-\makeMPintoPDFobject=\count290
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
 \everyMPtoPDFconversion=\toks30
 )
 LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 42.77966pt on input line 62.
+(Font)              scaled to size 42.77966pt on input line 63.
 LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 7.43994pt on input line 66.
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 66.
+(Font)              scaled to size 7.43994pt on input line 67.
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 67.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 66.
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 67.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 66.
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 67.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyb on input line 66.
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 67.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 66.
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 67.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for OT1+artemisia on input line 66.
+LaTeX Font Info:    Trying to load font information for OT1+artemisia on input line 67.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/gfsartemisia/ot1artemisia.fd)
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 7.43994pt on input line 66.
+(Font)              scaled to size 7.43994pt on input line 67.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `artemisia' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 5.57996pt on input line 66.
+(Font)              scaled to size 5.57996pt on input line 67.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 4.64996pt on input line 66.
+(Font)              scaled to size 4.64996pt on input line 67.
 Package microtype Info: Character `AE ' is missing
 (microtype)             in font `OT1/txr/m/n/12'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -894,10 +899,10 @@ Package microtype Info: Character `OE ' is missing
 (microtype)             in font `OT1/txr/m/it/6'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 11.15991pt on input line 66.
+(Font)              scaled to size 11.15991pt on input line 67.
 LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 33.47974pt on input line 70.
-LaTeX Font Info:    Calculating math sizes for size <36> on input line 70.
+(Font)              scaled to size 33.47974pt on input line 71.
+LaTeX Font Info:    Calculating math sizes for size <36> on input line 71.
 Package microtype Info: Character `AE ' is missing
 (microtype)             in font `OT1/txr/m/n/36'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -926,13 +931,13 @@ Package microtype Info: Character `OE ' is missing
 (microtype)             in font `OT1/txr/m/it/18'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 33.47974pt on input line 70.
+(Font)              scaled to size 33.47974pt on input line 71.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 23.4357pt on input line 70.
+(Font)              scaled to size 23.4357pt on input line 71.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 16.73987pt on input line 70.
+(Font)              scaled to size 16.73987pt on input line 71.
 LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 10.18341pt on input line 74.
+(Font)              scaled to size 10.18341pt on input line 75.
 Package microtype Info: Character `AE ' is missing
 (microtype)             in font `OT1/txr/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -943,10 +948,10 @@ Package microtype Info: Character `OE ' is missing
 (microtype)             in font `OT1/txr/m/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 10.18341pt on input line 74.
+(Font)              scaled to size 10.18341pt on input line 75.
 LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 35.33972pt on input line 78.
-LaTeX Font Info:    Calculating math sizes for size <38> on input line 78.
+(Font)              scaled to size 35.33972pt on input line 79.
+LaTeX Font Info:    Calculating math sizes for size <38> on input line 79.
 Package microtype Info: Character `AE ' is missing
 (microtype)             in font `OT1/txr/m/n/38'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -975,13 +980,13 @@ Package microtype Info: Character `OE ' is missing
 (microtype)             in font `OT1/txr/m/it/19'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 35.33972pt on input line 78.
+(Font)              scaled to size 35.33972pt on input line 79.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 24.73769pt on input line 78.
+(Font)              scaled to size 24.73769pt on input line 79.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 17.66986pt on input line 78.
+(Font)              scaled to size 17.66986pt on input line 79.
 LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 19.28804pt on input line 86.
+(Font)              scaled to size 19.28804pt on input line 87.
 Package microtype Info: Character `AE ' is missing
 (microtype)             in font `OT1/txr/m/n/20.74'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1001,9 +1006,9 @@ Package microtype Info: Character `OE ' is missing
 (microtype)             in font `OT1/txr/m/it/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 19.28804pt on input line 86.
+(Font)              scaled to size 19.28804pt on input line 87.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 13.39188pt on input line 86.
+(Font)              scaled to size 13.39188pt on input line 87.
  [1
 
 
@@ -1011,22 +1016,22 @@ LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 16.07027pt on input line 117.
+(Font)              scaled to size 16.07027pt on input line 118.
 LaTeX Font Info:    Font shape `T1/artemisia/b/n' will be
-(Font)              scaled to size 16.07027pt on input line 117.
+(Font)              scaled to size 16.07027pt on input line 118.
 Package lettrine.sty Info: Targeted height = 48.82327pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 51.26457pt (P) loversize=0.05;
-(lettrine.sty)             reported on input line 123.
+(lettrine.sty)             reported on input line 124.
 
-Underfull \hbox (badness 1496) in paragraph at lines 123--124
+Underfull \hbox (badness 1496) in paragraph at lines 124--125
 [][] \T1/artemisia/m/n/12 (+20) the sen-ti-ments con-
  []
 
 LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 13.39188pt on input line 132.
+(Font)              scaled to size 13.39188pt on input line 133.
 LaTeX Font Info:    Font shape `T1/artemisia/b/n' will be
-(Font)              scaled to size 13.39188pt on input line 132.
+(Font)              scaled to size 13.39188pt on input line 133.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1038,18 +1043,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 LaTeX Font Info:    Font shape `T1/artemisia/b/n' will be
-(Font)              scaled to size 10.18341pt on input line 145.
+(Font)              scaled to size 10.18341pt on input line 146.
 Package lettrine.sty Info: Targeted height = 48.82327pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 51.26457pt (S) loversize=0.05;
-(lettrine.sty)             reported on input line 149.
+(lettrine.sty)             reported on input line 150.
 
-Underfull \hbox (badness 2707) in paragraph at lines 149--150
+Underfull \hbox (badness 2707) in paragraph at lines 150--151
 [][] \T1/artemisia/m/n/12 (+20) writ-ers have so con-
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 155--156
+Underfull \hbox (badness 1796) in paragraph at lines 156--157
 []\T1/artemisia/m/n/12 (+20) Thus ne-ces-sity, like a grav-i-tat-ing
  []
 
@@ -1072,9 +1077,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4]
 LaTeX Font Info:    Font shape `T1/artemisia/m/it' will be
-(Font)              scaled to size 10.18341pt on input line 173.
+(Font)              scaled to size 10.18341pt on input line 174.
 LaTeX Font Info:    Font shape `T1/artemisia/b/it' will be
-(Font)              scaled to size 10.18341pt on input line 173.
+(Font)              scaled to size 10.18341pt on input line 174.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1115,9 +1120,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 48.82327pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 51.26457pt (M) loversize=0.05;
-(lettrine.sty)             reported on input line 228.
+(lettrine.sty)             reported on input line 229.
 LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 9.29993pt on input line 236.
+(Font)              scaled to size 9.29993pt on input line 237.
 Package microtype Info: Character `AE ' is missing
 (microtype)             in font `OT1/txr/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1146,11 +1151,11 @@ Package microtype Info: Character `OE ' is missing
 (microtype)             in font `OT1/txr/m/it/5'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 9.29993pt on input line 236.
+(Font)              scaled to size 9.29993pt on input line 237.
 LaTeX Font Info:    Font shape `OT1/artemisia/m/n' will be
-(Font)              scaled to size 6.50995pt on input line 236.
+(Font)              scaled to size 6.50995pt on input line 237.
 LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 6.50995pt on input line 236.
+(Font)              scaled to size 6.50995pt on input line 237.
 
 Underfull \vbox (badness 1043) has occurred while \output is active []
 
@@ -1163,7 +1168,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9]
-Underfull \hbox (badness 1701) in paragraph at lines 242--243
+Underfull \hbox (badness 1701) in paragraph at lines 243--244
 \T1/artemisia/m/n/12 (+20) by the Mid-i-an-ites, Gideon marched
  []
 
@@ -1233,7 +1238,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 48.82327pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 51.26457pt (I) loversize=0.05;
-(lettrine.sty)             reported on input line 282.
+(lettrine.sty)             reported on input line 283.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1299,7 +1304,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
-Underfull \hbox (badness 1789) in paragraph at lines 382--383
+Underfull \hbox (badness 1789) in paragraph at lines 383--384
 []\T1/artemisia/m/n/12 (+20) Thousands are al-ready ru-ined by
  []
 
@@ -1314,9 +1319,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 48.82327pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 51.26457pt (L) loversize=0.05;
-(lettrine.sty)             reported on input line 396.
+(lettrine.sty)             reported on input line 397.
 
-Underfull \hbox (badness 2334) in paragraph at lines 396--397
+Underfull \hbox (badness 2334) in paragraph at lines 397--398
 \T1/artemisia/m/n/12 (+20) rep-re-sen-ta-tion more equal.
  []
 
@@ -1347,9 +1352,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 48.82327pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 51.26457pt (I) loversize=0.05;
-(lettrine.sty)             reported on input line 430.
+(lettrine.sty)             reported on input line 431.
 
-Underfull \hbox (badness 1173) in paragraph at lines 436--437
+Underfull \hbox (badness 1173) in paragraph at lines 437--438
 []\T1/artemisia/m/n/12 (+20) Were the con-ti-nent crowded with
  []
 
@@ -1364,9 +1369,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 LaTeX Font Info:    Font shape `T1/artemisia/m/n' will be
-(Font)              scaled to size 5.57996pt on input line 460.
+(Font)              scaled to size 5.57996pt on input line 461.
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--487
+Underfull \hbox (badness 10000) in paragraph at lines 471--488
 
  []
 
@@ -1402,7 +1407,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [33]
-Underfull \hbox (badness 3260) in paragraph at lines 520--521
+Underfull \hbox (badness 3260) in paragraph at lines 521--522
 []\T1/artemisia/m/n/12 (+20) Immediate ne-ces-sity makes many
  []
 
@@ -1435,7 +1440,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 48.82327pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 51.26457pt (S) loversize=0.05;
-(lettrine.sty)             reported on input line 574.
+(lettrine.sty)             reported on input line 575.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1480,7 +1485,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [41]
 LaTeX Font Info:    Font shape `T1/artemisia/b/n' will be
-(Font)              scaled to size 11.15991pt on input line 620.
+(Font)              scaled to size 11.15991pt on input line 621.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1491,15 +1496,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [42] (/Users/fermicide/Desktop/common-sense-ltx/doc.aux) ) 
 Here is how much of TeX's memory you used:
- 9727 strings out of 478994
- 149321 string characters out of 5858183
- 558160 words of memory out of 5000000
- 26381 multiletter control sequences out of 15000+600000
+ 9782 strings out of 478994
+ 150188 string characters out of 5858183
+ 559597 words of memory out of 5000000
+ 26432 multiletter control sequences out of 15000+600000
  554155 words of font info for 652 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,18n,88p,4934b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/gfsartemisia/artemisia.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/gfsartemisia/artemisiaec.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/gfsartemisia/artemisiaecsc.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/gfsartemisia/GFSArtemisia-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/gfsartemisia/GFSArtemisia-BoldItalic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/gfsartemisia/GFSArtemisia-Italic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/gfsartemisia/GFSArtemisia-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/initials/GoudyIn.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb>
-Output written on /Users/fermicide/Desktop/common-sense-ltx/doc.pdf (42 pages, 368143 bytes).
+Output written on /Users/fermicide/Desktop/common-sense-ltx/doc.pdf (42 pages, 367623 bytes).
 PDF statistics:
  176 PDF objects out of 1000 (max. 8388607)
  123 compressed objects within 2 object streams

@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1649560376 "/Users/fermicide/Desktop/common-sense-ltx/doc.tex" "/Users/fermicide/Desktop/common-sense-ltx/doc.pdf" "doc" 1649560377
-  "/Users/fermicide/Desktop/common-sense-ltx/doc.aux" 1649560377 487 4ddf74df6a045a7b5281c812cf5a1ee0 ""
-  "/Users/fermicide/Desktop/common-sense-ltx/doc.tex" 1649560375 118858 bf34a0e29c74aa7e8a812b77dd204ceb ""
+["pdflatex"] 1649850514 "/Users/fermicide/Desktop/common-sense-ltx/doc.tex" "/Users/fermicide/Desktop/common-sense-ltx/doc.pdf" "doc" 1649850515
+  "/Users/fermicide/Desktop/common-sense-ltx/doc.aux" 1649850515 674 f8175b8ccb02eca7af8a2338591aa0da ""
+  "/Users/fermicide/Desktop/common-sense-ltx/doc.tex" 1649850512 118879 ee292a53eeae2db1ea028fbb25c36154 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/gfsartemisia/artemisia.enc" 1196103689 3514 0883619cb1aca77d59eef9ca80709d0f ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/gfsartemisia/artemisiaec.enc" 1196103689 3366 e1d4659504bcc77c99da704153dc901d ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/gfsartemisia/artemisiaecsc.enc" 1196103689 3484 ca1b9b5f60dabf3ca5205872a193a645 ""
@@ -66,6 +66,7 @@
   "/usr/local/texlive/2021/texmf-dist/tex/latex/base/book.cls" 1601675358 23269 46aa9b22aad0e958412c5a46b0e46893 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty" 1601675358 4947 8cb7717f0cc771eca0fda15160c7fee9 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty" 1601675358 5050 0d3b77275060ca09a40635b830c3c904 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/bigfoot/perpage.sty" 1414965027 5707 8a111e2f4c8f511ad622494ac2fe3f6d ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty" 1579038678 6078 f1cb470c9199e7110a27851508ed7a5c ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd" 1501364450 2679 d425462515e71491c8b283467c8a268c ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/cfr-initials/GoudyIn.sty" 1428356115 887 6dea87b24ca2a4aa94fcfd53ca4f140b ""
@@ -117,11 +118,11 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1636927432 2724740 a0af2cab0871a3178c338bd930b05e7a ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "doc.aux" 1649560377 487 4ddf74df6a045a7b5281c812cf5a1ee0 "pdflatex"
-  "doc.tex" 1649560375 118858 bf34a0e29c74aa7e8a812b77dd204ceb ""
+  "doc.aux" 1649850515 674 f8175b8ccb02eca7af8a2338591aa0da "pdflatex"
+  "doc.tex" 1649850512 118879 ee292a53eeae2db1ea028fbb25c36154 ""
   (generated)
   "doc.aux"
-  "doc.pdf"
-  "/Users/fermicide/Desktop/common-sense-ltx/doc.log"
   "/Users/fermicide/Desktop/common-sense-ltx/doc.pdf"
   "doc.log"
+  "doc.pdf"
+  "/Users/fermicide/Desktop/common-sense-ltx/doc.log"
