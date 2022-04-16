@@ -2,7 +2,7 @@
   <h3>common-sense-ltx</h3>
   <h5>A typesetting project</h5>
    
-  <br/>
+  ---
   
   This repository contains a version of <br/> Thomas Paine's 1776 pamphlet "Common Sense", typeset with LaTeX.
 
